@@ -16,8 +16,11 @@ body {
     opacity: 0.8;
 }
 .nom{
-    font-size: 1.1em;
-    
+    font-size: 1.1em;   
+}
+
+.chouette{
+    width: 200px;
 }
 
 a,
