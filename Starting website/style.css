@@ -6,6 +6,19 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.description{
+    font-size: 1.5em;
+}
+.missions{
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+    opacity: 0.8;
+}
+.nom{
+    font-size: 1.1em;
+    opacity: 0.8;
+}
 
 a,
 button {
